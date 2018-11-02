@@ -1,24 +1,14 @@
-# README
+# Email Address Validator
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a sample of [mailboxlayer](https://mailboxlayer.com) api integration application. User enters email click validate to check if the email really exists.
 
-Things you may want to cover:
+##### Example
+If a user enters 'cv@internsvalley.com', it will show a success message to the user. But if he enters 'test@example.com' and given that 'example.com' does not exist as an SMTP domain, it will show an error message.
 
-* Ruby version
+##### Live Demo:
+https://intense-earth-78170.herokuapp.com/
 
-* System dependencies
+-----------------------
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Pricing Algorithm Refactor
+ Link to refactored code:
