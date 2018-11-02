@@ -11,4 +11,5 @@ https://intense-earth-78170.herokuapp.com/
 -----------------------
 
 # Pricing Algorithm Refactor
- Link to refactored code:
+
+Show [refactored code](https://github.com/Mosab-Mohamed/email-validator/blob/master/pricing_algorithm.rb)
